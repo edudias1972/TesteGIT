@@ -1,0 +1,1 @@
+alert('Sou brasileiro , JavaScript na mente !');
